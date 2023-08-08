@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Farit Zafar</h1>
 <h3 align="center">A passionate and bit cranky software developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **React-native**
 
-- 💬 Ask me about **React-Native, React Js**
+- 💬 Ask me about **React-Native, React Js, C#, Php, SQL, Html Css**
 
 - 📫 How to reach me **faritzafar@hotmail.com**
 
